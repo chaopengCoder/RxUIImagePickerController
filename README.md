@@ -1,4 +1,4 @@
-#### RxSwift 官方代码实践
+#### RxSwift 官方代码实践 UIImagePickerController
 ##### 1. 扩展UIImagePickerController 初始化为Observable<UIImagePickerController>
 ```swift
 /// 扩展UIImagePickerController 初始化
